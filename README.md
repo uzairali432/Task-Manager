@@ -20,13 +20,6 @@ This project is built to practice modern web development concepts and clean UI d
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
 - CSS3
 - JavaScript (ES6+)
-- (Optional) React.js
-
-### Backend (if applicable)
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
+- Next.js
