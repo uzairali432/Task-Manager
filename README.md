@@ -1,30 +1,25 @@
-# Task management app
+# 📝 Task Manager App
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A simple and user-friendly **Task Manager Application** that helps users create, manage, and track their daily tasks efficiently.  
+This project is built to practice modern web development concepts and clean UI design.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ghayasali2424-5913s-projects/v0-task-management-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/vE0502g66JI)
+---
 
-## Overview
+## 🚀 Features
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- 📌 Mark tasks as completed
+- 🔍 Filter tasks (Completed / Pending)
+- 💾 Persistent data storage (LocalStorage / Database)
+- 📱 Responsive design for all devices
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Tech Stack
 
-**[https://vercel.com/ghayasali2424-5913s-projects/v0-task-management-app](https://vercel.com/ghayasali2424-5913s-projects/v0-task-management-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/vE0502g66JI](https://v0.app/chat/vE0502g66JI)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### Frontend
+- CSS3
+- JavaScript (ES6+)
+- Next.js
