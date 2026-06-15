@@ -51,3 +51,5 @@ A full-stack Task Manager application built with **MERN (MongoDB, Express, React
    ```bash
    git clone https://github.com/uzairali432/Task-Manager.git
    cd Task-Manager
+## Author 
+Uzair Ali 
